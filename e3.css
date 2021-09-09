@@ -1,0 +1,13 @@
+#definicion{
+    font-weight: bolder;
+}
+
+p{
+    text-align: justify;
+    overflow: scroll;
+    text-indent: 20px;
+    font-style: italic;
+    font-stretch: ultra-condensed;/* texto pegado*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /* */
+    
+}

@@ -1,0 +1,6 @@
+header > hgroup{
+    background-image:url("../Lab02/img/logo1.png") ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}

@@ -1,0 +1,20 @@
+/*
+Media Queries
+*/
+
+@media all  
+    {
+        * {
+            background-color: tomato;
+        }
+    }
+
+
+@media (max-widht : 480px){
+    *{
+        background-color: blue;
+    }
+}
+
+
+
